@@ -4,6 +4,7 @@ cd hw1/
 
 2.) To compile:
 g++ -g -Wall -std=c++11 -c split.cpp
+
 g++ -g -Wall -std=c++11 split_test.cpp split.cpp -o split
 
 3.) To run:
